@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Karyawan_Api</string>
+
+    <array name="jabatan">
+        <item>Direktur</item>
+        <item>Manager</item>
+        <item>HRD</item>
+        <item>Staff</item>
+        <item>Kepala Bagian</item>
+        <item>Karyawan</item>
+        <item>Office Boy</item>
+    </array>
+
+    <string name="Laki_laki">Laki-laki</string>
+    <string name="Perempuan">Perempuan</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
